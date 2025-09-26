@@ -1,5 +1,4 @@
 ## Hi mend
---
 下载python 然后
 1. `git clone <url>`
 2. `cd maplestorymendbot` 右键bot.py 用notepad来开 输入你的Token 和chatID 
